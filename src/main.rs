@@ -7,6 +7,7 @@ use crossterm::{
 
 mod print_ascii;
 mod controls;
+mod constants;
 
 const MAX_MENUS:usize = 5;
 
